@@ -1,0 +1,16 @@
+All files associated with our third CircuitVerse Assignment.
+
+Description of the assignment:
+finish the implementation of the simple ALU from Class on Sept 14, 2023.
+Top level design (in main) should only include sub circuits for the 2-bit unsigned adder, 2-bit unsigned multiplier and also for the 4 2-1 1-bit multiplexors -- which of which should be designed and implemented as sub circuits.
+Place inputs for A and B so that the are laid out in the standard left to right readable format, like what I mentioned in prior assignment , and also for the 4-bit output C.
+Document all the design processes and steps in the report (WORD) and also submit.
+You may use the combinational analysis tool to create the circuits, but all the work for the kmaps and truth tables must still be provided.
+You can use screenshots from the truth tables in CV as part of the automated tool if you'd like.
+If you can find a good k-map solver online, you maky also use them for the circles and also the MSOP equations.
+Make sure that you can do what these tools do by hand still because on tests and quizzes, you will not have these tools.
+In other works, use these tools to confirm that you know what you're doing.
+Then submit the final report here. Also, remember, you have to do the CV02 assignment inside of the CSCI210 class group in CircuitVerse.
+Make the circuit layout look professional in CV, and also make the report high quaility and explain what you're doing in there // document and screenshot.  Make it look nice and logical.
+
+Note, you do not have to use the decoders we were talking about in class in this implementation, but if you find some cool way to do that, please do so -- but not required.
