@@ -1,0 +1,7 @@
+All files associates with our second CircuitVerse Assignment.
+
+Description of the assignment:
+Given that A and B are 2-bit unsigned integers and L is also unsigned, where L = A + B (integer addition). 
+Create the truth table, all the k-maps, all the MSOP equations, and then implement, neatly, in CV (inside of the CSCI210-FA23 group --> CV01 assignment).
+
+Take screenshots showing it working.
